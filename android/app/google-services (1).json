@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456340205901",
+    "project_id": "academic-app-df2aa",
+    "storage_bucket": "academic-app-df2aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456340205901:android:b59e53eab4b3d5df1c0704",
+        "android_client_info": {
+          "package_name": "com.example.academic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsK3aQeu4JjDIBTu1srUezTbDQmah8Mko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456340205901:android:1f61420944b290d81c0704",
+        "android_client_info": {
+          "package_name": "com.example.hemmah_edu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsK3aQeu4JjDIBTu1srUezTbDQmah8Mko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
