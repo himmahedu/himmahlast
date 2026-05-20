@@ -53,7 +53,7 @@ jobs:
           flutter {
               source = "../.."
           }
-          GRADLEEOF
+          GRADLEOF
           rm -f app/build.gradle
       - name: Fix Android Gradle Plugin version
         run: |
