@@ -84,7 +84,6 @@ jobs:
       - name: Build APK
         run: |
           cd /tmp/himmah_build
-          flutter clean
           flutter pub get
           flutter build apk --release
       - uses: actions/upload-artifact@v4
